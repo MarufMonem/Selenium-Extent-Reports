@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="556cd3af-8df1-421d-8ec3-b9534b5b2bbe" name="Changes" comment="Extent Reports project created">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="556cd3af-8df1-421d-8ec3-b9534b5b2bbe" name="Changes" comment="Dependencies added&#10;&#10;TestNG, Selenium, Extent Reports">
+      <change afterPath="$PROJECT_DIR$/Extent Reports/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/extentReportPackage/ExtentReportDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
@@ -13,6 +14,13 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -31,7 +39,8 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -50,7 +59,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666582173922</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Dependencies added&#10;&#10;TestNG, Selenium, Extent Reports">
+      <created>1666582726828</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666582726828</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -66,6 +82,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Extent Reports project created" />
-    <option name="LAST_COMMIT_MESSAGE" value="Extent Reports project created" />
+    <MESSAGE value="Dependencies added&#10;&#10;TestNG, Selenium, Extent Reports" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dependencies added&#10;&#10;TestNG, Selenium, Extent Reports" />
   </component>
 </project>
